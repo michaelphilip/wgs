@@ -1,4 +1,4 @@
-wgs
+WGS
 ===
 
 Phonegap Mobile Application
